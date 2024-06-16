@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/duke-nus-external-project-with-enrico/","tags":["#PhD","collaboration","duke-nus","gardenEntry"]}
+{"dg-publish":true,"permalink":"/duke-nus-external-project-with-enrico/","tags":["#PhD","collaboration","duke-nus","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
-# Duke-NUS External project with Enrico
+
 ## The meeting
 
 This meeting was all about introducing the problem, a description of the data Enrico has, and how he wishes to process it and find useful correlations in them using powerful numerical tools. 

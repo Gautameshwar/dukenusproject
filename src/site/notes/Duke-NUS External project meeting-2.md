@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/duke-nus-external-project-meeting-2/","tags":["PhD","collaboration","duke-nus"]}
+{"dg-publish":true,"permalink":"/duke-nus-external-project-meeting-2/","tags":["PhD","collaboration","duke-nus"],"noteIcon":""}
 ---
 
 

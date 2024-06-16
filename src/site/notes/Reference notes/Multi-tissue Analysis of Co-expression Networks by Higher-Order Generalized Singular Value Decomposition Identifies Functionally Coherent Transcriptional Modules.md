@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/multi-tissue-analysis-of-co-expression-networks-by-higher-order-generalized-singular-value-decomposition-identifies-functionally-coherent-transcriptional-modules/","title":"Multi-tissue Analysis of Co-expression Networks by Higher-Order Generalized Singular Value Decomposition Identifies Functionally Coherent Transcriptional Modules","tags":["duke-nus","collaboration","PhD"]}
+{"dg-publish":true,"permalink":"/reference-notes/multi-tissue-analysis-of-co-expression-networks-by-higher-order-generalized-singular-value-decomposition-identifies-functionally-coherent-transcriptional-modules/","title":"Multi-tissue Analysis of Co-expression Networks by Higher-Order Generalized Singular Value Decomposition Identifies Functionally Coherent Transcriptional Modules","tags":["duke-nus","collaboration","PhD"],"noteIcon":""}
 ---
 
 

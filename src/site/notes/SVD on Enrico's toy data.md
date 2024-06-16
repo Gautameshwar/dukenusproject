@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/svd-on-enrico-s-toy-data/","tags":["PhD","collaboration","duke-nus","coding"]}
+{"dg-publish":true,"permalink":"/svd-on-enrico-s-toy-data/","tags":["PhD","collaboration","duke-nus","coding"],"noteIcon":""}
 ---
 
 
