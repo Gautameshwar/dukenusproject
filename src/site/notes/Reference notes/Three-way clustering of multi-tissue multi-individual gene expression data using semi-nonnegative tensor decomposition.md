@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/reference-notes/three-way-clustering-of-multi-tissue-multi-individual-gene-expression-data-using-semi-nonnegative-tensor-decomposition/","title":"Three-way clustering of multi-tissue multi-individual gene expression data using semi-nonnegative tensor decomposition","tags":["collaboration","duke-nus"],"noteIcon":""}
 ---
 
+[[nihms-1646872.pdf]]
 
 **Abstract**: The advent of high-throughput sequencing technologies has led to an increasing availability of large multi-tissue data sets which contain gene expression measurements across different tissues and individuals. In this setting, variation in expression levels arises due to contributions specific to genes, tissues, individuals, and interactions thereof. Classical clustering methods are ill-suited to explore these three-way interactions and struggle to fully extract the insights into transcriptome complexity contained in the data. We propose a new statistical method, called MultiCluster, based on semi-nonnegative tensor decomposition which permits the investigation of transcriptome variation across individuals and tissues simultaneously. We further develop a tensor projection procedure which detects covariate-related genes with high power, demonstrating the advantage of tensor-based methods in incorporating information across similar tissues. Through simulation and application to the GTEx RNA-seq data from 53 human tissues, we show that MultiCluster identifies three-way interactions with high accuracy and robustness.
 

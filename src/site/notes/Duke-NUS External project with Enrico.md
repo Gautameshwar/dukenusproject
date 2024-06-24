@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/duke-nus-external-project-with-enrico/","tags":["#PhD","collaboration","duke-nus","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/duke-nus-external-project-with-enrico/","tags":["PhD","collaboration","duke-nus","gardenEntry"],"noteIcon":""}
 ---
-
 
 ## The meeting
 
@@ -15,7 +14,7 @@ Enrico has a big data matrix with gene expressions as the entries in each row/co
 The grouping also has sub-grouping based on the cell type. Say in the lungs cell group, the cell could be a cilium or a cell from the alveoli or be an inner lining cell in the trachea. Enrico says these cells provide additional information on the gene resolution across the place we sample from. Broadly, this sub-grouping can be termed the "cell phenotype". 
 
 >[!info] 
->The data size is in total around 10k genes and 245k cells across 10-20 patients (Not very sure, need to confirm the exact numbers)
+>The data size is in total around 20k genes and 10k cells across 100-1000 patients.
 
 In a recent meeting, Enrico also hinted that he can provide the information on space in these cells, meaning from which location in the organ exactly has it been sampled. This might also give opportunities to explore the space correlation of the genes and how they spread across the organ/body.
 
@@ -51,7 +50,7 @@ After another round of discussion (which I did not fully follow), we concluded t
 
 
 > [!important] Codes to implement
-> The Julia codes that analyzed the toy data provided by Enrico and its results are here: [[SVD on Enrico's toy data\|SVD on Enrico's toy data]]
+> The Julia codes that analyzed the toy data provided by Enrico and its results are here: [[Jupyter notebooks/SVD on Enricos toy data/SVD on Enrico's toy data\|SVD on Enrico's toy data]]
 
 
 > [!info] Follow more
